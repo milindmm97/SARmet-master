@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Mar 29 11:10:06 IST 2018
+0.baseType=DIRECTORY
+0.base=G\:\\tie\\android\\SARmet-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\56
+0.path=classes.dex
+0.set=DEX
+count=1

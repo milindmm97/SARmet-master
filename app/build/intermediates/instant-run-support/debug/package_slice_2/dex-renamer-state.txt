@@ -1,0 +1,4 @@
+#Sat Mar 03 00:07:57 IST 2018
+base.0=C\:\\Users\\Riya\\AndroidStudioProjects\\SARmet-master\\SARmet-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\40
+path.0=classes.dex
+renamed.0=classes.dex
